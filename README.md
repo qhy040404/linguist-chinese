@@ -1,6 +1,6 @@
 # linguist-chinese
 
-> .gitattributes中linguist相关用法
+.gitattributes中linguist相关用法
 
 ## 合并计算
 
