@@ -1,6 +1,6 @@
 # linguist-chinese
 
-.gitattributes中linguist相关用法
+.gitattributes中linguist相关用法，相关文件类型的示例在对应文件夹中
 
 ## 合并计算
 
