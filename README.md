@@ -7,7 +7,8 @@
 * 将某一种语言计算进其他语言的代码量中
 > 示例：
 ```gitattributes
-*.rb linguist-language=Java #将Ruby代码计算进Java代码量中
+# 将Ruby代码计算进Java代码量中
+*.rb linguist-language=Java
 ```
 
 ## 引用代码 / 他人供应代码
